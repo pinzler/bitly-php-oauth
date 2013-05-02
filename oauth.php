@@ -11,6 +11,7 @@
 	    true);
 	
 	// Returns a URL encoded string in the format of "access_token=%s&login=%s&apiKey=%s"
+	// parse_str() creates variables $access_token, $login, $apiKey (http://php.net/manual/en/function.parse-str.php)
 	parse_str($uri);
 
 	//the OAuth access token for specified user
