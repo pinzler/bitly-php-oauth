@@ -1,5 +1,5 @@
-# Bitly Authentication PHP Quick Template
-=================================================================================
+# Bitly Oauth PHP Quick Template
+
 
 ## Setup on bitly
 
